@@ -1,0 +1,53 @@
+
+
+/* .p {
+    font-family:font-family: 'Silkscreen', cursive;
+    ;
+    color: rgb(23, 39, 40)
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;600&family=Silkscreen&display=swap');
+
+
+body {
+    background-color: rgb(17, 19, 19);
+    font-family: 'Quicksand';
+    color: rgba(255, 255, 255, 0.926);
+    
+        font-size: 18px;
+  }
+
+  a {
+    color: rgb(72, 211, 238);
+  }
+  h1 {
+    font-family: 'Silkscreen', cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 38px;
+    line-height: 1.15;
+    color: rgba(34, 232, 140, 0.8);
+    -webkit-font-smoothing: antialiased;
+  }
+  h3 {
+    font-family: 'Quicksand';
+    font-weight: 600;
+    font-style: normal;
+    font-size: 22px;
+    line-height: 1;
+    color: rgba(255, 255, 255, 0.926);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  
+  p {
+    font-family: 'Quicksand';
+color: rgba(255, 255, 255, 0.926);
+
+    font-size: 18px;
+  }
+  .thinBod {
+   
+    max-width: 700px;
+
+  }
